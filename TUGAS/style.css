@@ -1,0 +1,56 @@
+.header {
+    margin: 150px 150px 150px 170px;
+}
+.header-title {
+    font-weight: bolder;
+    color: rgb(64, 64, 64);
+}
+.arrow {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 220%;
+}
+button{
+    color: rgb(64, 64, 64);
+    margin-top: 30px;
+}
+.shape{
+    background-color: #187CFF;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+.vertical-line {
+    border-left: 2px dotted #187CFF;
+    height: 30px;
+    margin-bottom: -12px;
+    margin-left: 11px;
+}
+.arrow-down {
+    border: solid #187CFF;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    margin-left: 12px;
+}
+.btn-daftar {
+    background-color: rgb(24 124 255);
+    border-radius: 5px;
+    text-decoration: none;
+    color: azure;
+    font-size: 14px;
+    padding: 11px 45px 11px 45px;
+    z-index: -1;
+}
+.btn-konsul {
+    background-color: rgb(255 210 0);
+    border-radius: 5px;
+    text-decoration: none;
+    color: rgb(64, 64, 64);
+    font-size: 14px;
+    padding: 11px 45px 11px 45px;
+}
+
